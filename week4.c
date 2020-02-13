@@ -1,3 +1,4 @@
+//สรุป: Function/Pass by Value
 #include<stdio.h>
 int addTen(int x) //type+name=Declare variable
 {
