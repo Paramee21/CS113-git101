@@ -1,3 +1,4 @@
+//สรุป: getchar(),gets(),fgets(),puts(),putchar(),atoi,atol,atof,if-else,while,for
 #include <stdio.h>
 #include <stdlib.h>
 char name[20];
