@@ -1,3 +1,4 @@
+//สรุป:Pointers
 #include <stdio.h>
 int main()
 {
