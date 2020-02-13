@@ -1,3 +1,4 @@
+//สรุป:เริ่มต้นเขียนภาษาซี,การประกาศตัวแปร,Data type,การแสดงผลด้วยprintf()
 #include <stdio.h>
 #define for "asdfgh"
 float e;
