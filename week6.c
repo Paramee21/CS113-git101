@@ -1,3 +1,4 @@
+//สรุป:Pointers ,Array ,Function
 #include <stdio.h>
 // void addTen(int arr[][n], int n)
 void addTen(int *arr, int n)
