@@ -1,0 +1,23 @@
+การสร้าง/แยก Branch
+
+สร้าง Branch : git branch ชื่อ
+
+ตรวจสอบว่ามี Branch ใดบ้าง ด้วยคำสั่ง : git branch
+สังเกตว่า * จะไปอยู่หน้า Branch ที่ตั้งชื่อไว้
+
+เปลี่ยน Branch ไปที่ feature ด้วยคำสั่ง : git checkout ชื่อ
+
+การ Merge Branch แบบไม่มี Conflict
+
+เพิ่มไฟล์ใหม่ในแต่ละbranch แล้ว push แต่ละอันขึ้น github
+
+รวม Branch (merge) -ชื่อ- ให้ไปอยู่ใน master : git merge ชื่อ
+
+เมื่อไม่มี conflict จะทำให้ git สร้าง commit ของการ merge นั้นไปเลย
+
+เมื่อ merge แล้ว จะเห็นว่ามีทั้งไฟล์ master1.txt และ feature1.txt อยู่ใน Branch master
+
+push master ขึ้น github จะถือว่าการ merge นั้น สมบูรณ์ : git push origin master
+
+git pull origin master	(ดึงการเปลี่ยนแปลงจาก branch master)
+
